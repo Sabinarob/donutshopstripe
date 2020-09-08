@@ -5,7 +5,7 @@
 ### Getting Started
 
 - clone this repo locally by clicking on "Clone or Download"
-- from a terminal, cd into the project folder `cd donut-shop-sabina-stripe`
+- from a terminal, cd into the project folder `cd donutshopstripe`
 - install the dependencies stripe-js and react-stripe-js `npm install @stripe/stripe-js @stripe/react-stripe-js`
 - start running! `npm run dev`
 
